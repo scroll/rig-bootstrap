@@ -1,3 +1,4 @@
 biped_guide.sgt filter=lfs diff=lfs merge=lfs -text
 *.ma filter=lfs diff=lfs merge=lfs -text
 *.mb filter=lfs diff=lfs merge=lfs -text
+*.jSkin filter=lfs diff=lfs merge=lfs -text
